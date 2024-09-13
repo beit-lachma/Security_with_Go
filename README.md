@@ -1,6 +1,6 @@
 Security with Go
 
-This is the code repository for [Security with Go](https://www.example.com/security-with-go](https://subscription.packtpub.com/search?query=security%20go&utm_source=github&utm_medium=repository&utm_campaign=9781788627917)), published by [Packt](https://www.packtpub.com/en-us?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish 
+This is the code repository for [Security with Go](https://subscription.packtpub.com/search?query=security%20go&utm_source=github&utm_medium=repository&utm_campaign=9781788627917), published by [Packt](https://www.packtpub.com/en-us?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish 
 
 
 About the Book
